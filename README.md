@@ -1,3 +1,18 @@
+# About the Project!
+
+This Project is the part of the ReactJs and Redux course.
+Belows are the project images
+
+![comp1](https://user-images.githubusercontent.com/26798743/225752430-6b2a76ad-b690-40df-ae4e-52c1401da63f.PNG)
+![comp2](https://user-images.githubusercontent.com/26798743/225752520-3e9304df-0185-4095-b32b-485b727f5500.PNG)
+![comp3](https://user-images.githubusercontent.com/26798743/225752675-0b53f62a-0884-4b1b-b16b-f5c8a67993ba.PNG)
+![comp4](https://user-images.githubusercontent.com/26798743/225752724-120bf0d5-4ceb-4dbc-85d8-4526802f076b.PNG)
+![comp5](https://user-images.githubusercontent.com/26798743/225752751-cd1d2636-75f6-4bec-9f34-3a213063656b.PNG)
+![comp6](https://user-images.githubusercontent.com/26798743/225752792-d806e8c8-18d4-4c6d-91df-afaaa2dd597d.PNG)
+
+
+In this react Project I applied all different types of componentes to learn different techniques of the react. I have used context for the state management also have created some custom hooks. Learned about the Route and how they work. I also used Map, Reduce and Filter for sorting the collection of the data.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,32 +54,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
